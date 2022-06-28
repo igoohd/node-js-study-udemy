@@ -14,4 +14,4 @@ A repository to centralize Node.js learning from [Udemy course](https://www.udem
 - Javascript advanced.
 
 ## Projects
-Every projects folder has the README file with the project description and instructions.
+Every project folder has the README file with the project description and instructions.
