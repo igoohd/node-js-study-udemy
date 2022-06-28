@@ -4,7 +4,7 @@
 Question and answers platform.
 
 ## Learning
-- Express.js
+- Node.js
 - How to use Express.js + MySql
 - How to use Node.js + HTML + CSS
 - Bootstrap basic
