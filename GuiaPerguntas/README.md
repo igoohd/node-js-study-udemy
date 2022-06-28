@@ -13,7 +13,7 @@ Question and answers platform.
 ## 💻 Pre-requisites
 
 - Node.js
-- 
+- NPM
 
 ## ☕ Running GuiaPerguntas
 
