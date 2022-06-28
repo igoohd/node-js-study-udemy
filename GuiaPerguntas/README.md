@@ -7,6 +7,7 @@ Question and answers platform.
 - Node.js
 - How to use Express.js + MySql
 - How to use Node.js + HTML + CSS
+- Template engine: EJS
 - Bootstrap basic
 - Digital Ocean deployment.
 
