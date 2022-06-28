@@ -5,7 +5,7 @@ Question and answers platform.
 
 ## Learning
 - Express.js
-- How to use Express.js = MySql
+- How to use Express.js + MySql
 - How to use Node.js + HTML + CSS
 - Bootstrap basic
 - Digital Ocean deployment.
